@@ -1,0 +1,14 @@
+@media (max-width: 24rem) {
+  html {
+    font-size: 50%;
+  }
+
+  body {
+    padding: 1rem;
+  }
+
+  .card-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
